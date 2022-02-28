@@ -10,9 +10,6 @@ header{
 .ab_hero{
     /* height: 300px; */
 }
-.ab_footer{
-    height: 200px;
-}
 .ab_copyright{
     height: 75px;
 }
@@ -26,4 +23,13 @@ header{
     width: 100%;
     height: 3px;
     background-color: black;
+}
+.footer_container{
+    background-color: #3A546D;
+}
+.text_green{
+    color: #1ABC9C;
+}
+.bg_dark-blue{
+    background-color: #2C3E50;
 }
